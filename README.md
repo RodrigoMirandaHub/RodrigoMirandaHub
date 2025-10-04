@@ -1,4 +1,4 @@
-# Rodrigo Miranda - Desenvolvedor Python & Automação 🤖🐍
+# Rodrigo Miranda - Analise de Dados / Desenvolvedor Python & Automação 🤖🐍
 
 ## Sobre mim  
 Sou desenvolvedor Python focado em analise de dados, automações, criação de websites com WordPress e design gráfico usando IA.
@@ -17,6 +17,12 @@ Sou desenvolvedor Python focado em analise de dados, automações, criação de 
 
 ## O que eu faço
 
+- 🔹 Coleta e organização de dados em Excel e CSV
+- 🔹 Limpeza e transformação de dados com Python (Pandas e NumPy)
+- 🔹 Criação de gráficos e relatórios para apoio à tomada de decisão
+- 🔹 Consultas e manipulação de dados em SQL
+- 🔹 Análise exploratória de dados e identificação de padrões
+- 🔹 Visualização de dados com Power BI 
 - 🔹 Automatização de processos com Selenium e Pandas  
 - 🔹 Extração de dados e web scraping  
 - 🔹 Scripts para organização e análise de dados em Excel  
