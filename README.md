@@ -3,6 +3,11 @@
 ## Sobre mim  
 Sou desenvolvedor Python focado em analise de dados, automações, criação de websites com WordPress e design gráfico usando IA.
 
+<img width="767" height="430" alt="fem" src="https://github.com/user-attachments/assets/6fb0270b-632f-47b4-854c-1c910206918b" />
+
+<img width="897" height="502" alt="499099105-cc85e331-4c95-457a-9bdd-af897491c474" src="https://github.com/user-attachments/assets/d364daf7-0297-43da-9d85-e156b9511f57" />
+
+
 ## Tecnologias & Skills 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)  
