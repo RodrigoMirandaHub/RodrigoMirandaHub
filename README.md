@@ -5,7 +5,9 @@ Sou desenvolvedor Python focado em analise de dados, automações, criação de 
 
 <img width="767" height="430" alt="fem" src="https://github.com/user-attachments/assets/6fb0270b-632f-47b4-854c-1c910206918b" />
 
-<img width="897" height="502" alt="499099105-cc85e331-4c95-457a-9bdd-af897491c474" src="https://github.com/user-attachments/assets/d364daf7-0297-43da-9d85-e156b9511f57" />
+![1760975873991](https://github.com/user-attachments/assets/05780215-9c27-47b6-9c99-090376b4b007)
+
+![1760975873210](https://github.com/user-attachments/assets/1167aae0-c2d2-40ef-83ab-74355cb71f1b)
 
 
 ## Tecnologias & Skills 
