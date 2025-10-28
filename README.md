@@ -3,9 +3,12 @@
 ## Sobre mim  
 Sou desenvolvedor Python focado em analise de dados, automações, criação de websites com WordPress e design gráfico usando IA.
 
+## Exemplos de Projetos finalizados em Power BI.
+
 <img width="767" height="430" alt="fem" src="https://github.com/user-attachments/assets/6fb0270b-632f-47b4-854c-1c910206918b" />
 
 ![1760975873991](https://github.com/user-attachments/assets/05780215-9c27-47b6-9c99-090376b4b007)
+
 
 ![1760975873210](https://github.com/user-attachments/assets/1167aae0-c2d2-40ef-83ab-74355cb71f1b)
 
