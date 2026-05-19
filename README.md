@@ -1,4 +1,4 @@
-# Rodrigo Miranda
+# Rodrigo Miranda 🤖
 
 AI Agents | Cybersecurity | Power BI | SQL | Python | Automação com IA
 
