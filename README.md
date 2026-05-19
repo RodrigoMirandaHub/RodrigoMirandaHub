@@ -1,16 +1,32 @@
-# Rodrigo Miranda - Analise de Dados / Desenvolvedor Python & Automação 🤖🐍
+# Rodrigo Miranda
 
-## Sobre mim  
-Sou desenvolvedor Python focado em analise de dados, automações, criação de websites com WordPress e design gráfico usando IA.
+Analista de Dados | Power BI | SQL | Python | Automação com IA
 
-## Exemplos de Projetos finalizados em Power BI.
+Atualmente desenvolvendo:
+- Dashboards comerciais
+- Automação com n8n
+- Integrações com IA
+- Projetos em Power BI
+- Bots para Telegram e WhatsApp
 
-<img width="767" height="430" alt="fem" src="https://github.com/user-attachments/assets/6fb0270b-632f-47b4-854c-1c910206918b" />
+## Projeto em destaque
 
-![1760975873991](https://github.com/user-attachments/assets/05780215-9c27-47b6-9c99-090376b4b007)
+### Monitor de Cotações com Alertas — n8n + IA
 
+Sistema automatizado para monitoramento de:
+- Bitcoin
+- Dólar
+- Euro
+- Criptomoedas
 
-![1760975873210](https://github.com/user-attachments/assets/1167aae0-c2d2-40ef-83ab-74355cb71f1b)
+Com alertas inteligentes e automações utilizando:
+- n8n
+- APIs
+- IA
+- Telegram
+
+🔗 Link do projeto:
+[Seu repositório aqui]
 
 
 ## Tecnologias & Skills 
