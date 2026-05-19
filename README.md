@@ -1,6 +1,6 @@
 # Rodrigo Miranda
 
-Analista de Dados | Power BI | SQL | Python | Automação com IA
+AI Agents | Cybersecurity | Power BI | SQL | Python | Automação com IA
 
 Atualmente desenvolvendo:
 - Dashboards comerciais
