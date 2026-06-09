@@ -25,7 +25,7 @@ Scheduled automation polling USD and BTC rates every 30 minutes via AwesomeAPI. 
 `n8n` `AwesomeAPI` `Google Sheets` `Gmail` `Schedule Trigger`
 
 ### 🔌 [Claude MCP Projects — Filesystem, SQLite & Google Sheets](https://github.com/RodrigoMirandaHub/claude-mcp-projects)
-Documented setup and integration of Model Context Protocol (MCP) servers with Claude Desktop on Windows — covering filesystem access, SQLite queries, and Google Sheets operations.  
+Documented setup and integration of Model Context Protocol (MCP) servers with Claude Desktop on Windows covering filesystem access, SQLite queries, and Google Sheets operations.  
 `MCP` `Claude Desktop` `SQLite` `Google Sheets` `Windows`
 
 ---
@@ -68,7 +68,7 @@ Implemented full OAuth 2.0 authorization code flow with Spotify and GitHub APIs 
 `n8n` `OAuth 2.0` `Spotify API` `GitHub API`
 
 ### ☁️ Cloud-Deployed N8N Instance
-Self-hosted N8N running in production on Render via Docker with a public URL — not local, always on.
+Self-hosted N8N running in production on Render via Docker with a public URL not local, always on.
 `Docker` `Render` `N8N Self-hosted`
 
 ---
@@ -88,7 +88,7 @@ Self-hosted N8N running in production on Render via Docker with a public URL —
 
 ## 📌 Background
 
-Communication degree (UnB) + self-directed path into automation and AI engineering. I've built every project here from scratch — no templates, no boilerplate kits. Each one solves a real use case end-to-end.
+Communication degree (UnB) + self-directed path into automation and AI engineering. I've built every project here from scratch  no templates, no boilerplate kits. Each one solves a real use case end-to-end.
 
 Currently focused on: fintech integrations, Open Finance APIs, and LLM-powered business workflows.
 
