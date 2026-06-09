@@ -64,7 +64,7 @@ Webhook endpoint that receives live Stripe payment events, extracts event type, 
 `n8n` `Stripe Webhooks` `Google Sheets`
 
 ### 🔐 OAuth 2.0 Flows
-Implemented full OAuth 2.0 authorization code flow with Spotify and GitHub APIs — token exchange, Bearer authentication, and refresh cycle management inside N8N.
+Implemented full OAuth 2.0 authorization code flow with Spotify and GitHub APIs token exchange, Bearer authentication, and refresh cycle management inside N8N.
 `n8n` `OAuth 2.0` `Spotify API` `GitHub API`
 
 ### ☁️ Cloud-Deployed N8N Instance
