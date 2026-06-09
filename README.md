@@ -1,26 +1,59 @@
 # Rodrigo Miranda
 
-**N8N Automation Engineer · AI Integrations · REST APIs**
+**N8N Automation Engineer · AI/LLM Integrations · REST APIs**
 
-I build workflow automations that connect APIs, process data with LLMs, and trigger real-time actions across business systems. Based in Brasília, Brazil.
-
----
-
-## 🔧 What I Build
-
-- **AI-powered pipelines** — LLM classification, structured output parsing, Groq/LLaMA integrations
-- **Event-driven workflows** — webhook listeners, Stripe payment processing, real-time alerts
-- **Data pipelines** — API ingestion → transformation → Google Sheets logging
-- **OAuth 2.0 integrations** — Spotify, GitHub, and other authenticated APIs
-- **Cloud-hosted automations** — self-deployed N8N on Render via Docker, running 24/7
+I build end-to-end workflow automations that connect APIs, process data with LLMs, and trigger real-time actions across business systems. Based in Brasília, Brazil.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 🤖 [Ticket Classification Pipeline — N8N + Groq LLaMA](https://github.com/RodrigoMirandaHub)
-LLM-based ticket triage system. Classifies incoming support tickets by type and priority using Groq's LLaMA model, logs results to Google Sheets, and fires Gmail alerts for critical cases.
-`n8n` `Groq API` `LLaMA` `Google Sheets` `Gmail`
+### 🎫 [Ticket Classification Pipeline — N8N + Groq + LLaMA](https://github.com/RodrigoMirandaHub/pipeline-classificador-tickets-n8n)
+AI pipeline for automatic fintech support ticket triage. Receives tickets via webhook, classifies them by category and severity using LLaMA 3.3-70b, fires critical alerts via Gmail, and logs all results to Google Sheets.  
+`n8n` `Groq API` `LLaMA 3.3` `Webhooks` `Google Sheets` `Gmail`
+
+### 🤖 [Telegram AI Chatbot with Memory](https://github.com/RodrigoMirandaHub/telegram-ai-chatbot1)
+Fully functional Telegram chatbot powered by Groq (LLaMA 3.3), with persistent conversation history stored in Google Sheets. Deployed on Railway with zero cost infrastructure.  
+`n8n` `Groq API` `Telegram Bot API` `Google Sheets` `Railway`
+
+### 📊 [Lead Analysis Agent — N8N + AI](https://github.com/RodrigoMirandaHub/-Agente-de-An-lise-de-Leads-com-IA-N8N)
+Webhook-triggered workflow that receives lead data, processes it through an LLM for qualification and classification, and saves structured results to Google Sheets.  
+`n8n` `Groq API` `Webhooks` `Google Sheets` `JSON parsing`
+
+### 📈 [Financial Rate Monitor with Alerts](https://github.com/RodrigoMirandaHub/monitor-cotacoes-n8n)
+Scheduled automation polling USD and BTC rates every 30 minutes via AwesomeAPI. Stores history in Google Sheets and sends conditional Gmail alerts when thresholds are crossed.  
+`n8n` `AwesomeAPI` `Google Sheets` `Gmail` `Schedule Trigger`
+
+### 🔌 [Claude MCP Projects — Filesystem, SQLite & Google Sheets](https://github.com/RodrigoMirandaHub/claude-mcp-projects)
+Documented setup and integration of Model Context Protocol (MCP) servers with Claude Desktop on Windows — covering filesystem access, SQLite queries, and Google Sheets operations.  
+`MCP` `Claude Desktop` `SQLite` `Google Sheets` `Windows`
+
+---
+
+## 🛠 Tech Stack
+
+| Area | Tools |
+|---|---|
+| Automation | N8N, Webhooks, Schedule Triggers |
+| AI / LLM | Groq API, LLaMA 3.3, Prompt Engineering |
+| APIs | REST, AwesomeAPI, Telegram Bot API, Stripe |
+| Data | Google Sheets, SQLite, JSON parsing |
+| Infrastructure | Railway, Render, Docker |
+| Security | Cisco CCNA, CyberOps Associate (certified) |
+
+---
+
+## 📌 Background
+
+Communication degree (UnB) + self-directed path into automation and AI engineering. Every project here was built from scratch to solve a real use case end-to-end — webhook intake, LLM processing, conditional logic, data storage, and alerting.
+
+Currently focused on: fintech integrations, LLM-powered business workflows, and Open Finance APIs.
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-h-miranda) · [Email](mailto:negociosonlinerh2@gmail.com)`n8n` `Groq API` `LLaMA` `Google Sheets` `Gmail`
 
 ### 📈 [Financial Rate Monitor with Alerts](https://github.com/RodrigoMirandaHub/monitor-cotacoes-n8n)
 Scheduled automation that polls USD and BTC rates every 30 minutes via AwesomeAPI, stores history in Google Sheets, and sends conditional email alerts when thresholds are crossed.
