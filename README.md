@@ -8,10 +8,15 @@ I build end-to-end workflow automations that connect APIs, process data with LLM
 
 ## 📂 Projects
 
-### 🔗 [langchain-studies]((https://github.com/RodrigoMirandaHub/langchain-studies))
+### 🔗 LangChain Studies
 Building hands-on projects with LangChain, LCEL, and Groq.
 Covers chains, prompt templates, memory, RAG, and agents.
-→ [langchain-studies]((https://github.com/RodrigoMirandaHub/langchain-studies))
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+
+→ [langchain-studies](https://github.com/RodrigoMirandaHub/langchain-studies)
 
 
 ### 🔥 [Lead Enrichment Pipeline — N8N + Groq + Supabase + HubSpot](https://github.com/RodrigoMirandaHub/lead-enrichment-pipeline-n8n)
