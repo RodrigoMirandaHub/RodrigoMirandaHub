@@ -8,6 +8,12 @@ I build end-to-end workflow automations that connect APIs, process data with LLM
 
 ## 📂 Projects
 
+### 🔗 [langchain-studies]((https://github.com/RodrigoMirandaHub/langchain-studies))
+Building hands-on projects with LangChain, LCEL, and Groq.
+Covers chains, prompt templates, memory, RAG, and agents.
+→ [langchain-studies]((https://github.com/RodrigoMirandaHub/langchain-studies))
+
+
 ### 🔥 [Lead Enrichment Pipeline — N8N + Groq + Supabase + HubSpot](https://github.com/RodrigoMirandaHub/lead-enrichment-pipeline-n8n)
 AI pipeline that receives leads via webhook, scores them with LLaMA 3.3-70b, stores results in Supabase (PostgreSQL) with duplicate protection, creates contacts in HubSpot CRM, and fires Gmail alerts for hot leads (score ≥ 7).  
 `n8n` `Groq API` `LLaMA 3.3` `Supabase` `HubSpot` `PostgreSQL` `Gmail`
