@@ -8,7 +8,7 @@ I build end-to-end workflow automations that connect APIs, process data with LLM
 
 ## 📂 Projects
 
-### 🔗 LangChain Studies
+### 🔗 [LangChain Studies](https://github.com/RodrigoMirandaHub/langchain-studies)
 Building hands-on projects with LangChain, LCEL, and Groq.
 Covers chains, prompt templates, memory, RAG, and agents.
 
