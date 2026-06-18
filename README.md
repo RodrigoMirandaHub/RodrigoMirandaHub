@@ -43,6 +43,18 @@ Scheduled automation polling USD and BTC rates every 30 minutes via AwesomeAPI. 
 Documented setup and integration of Model Context Protocol (MCP) servers with Claude Desktop on Windows covering filesystem access, SQLite queries, and Google Sheets operations.  
 `MCP` `Claude Desktop` `SQLite` `Google Sheets` `Windows`
 
+### 05 — Agent with Tools
+LangChain agent with two tools: a calculator and a web search tool.
+Uses `bind_tools` for manual tool call loop control instead of `create_agent`.
+
+**Known issue:** Groq API (`llama-3.3-70b-versatile`) generates malformed XML
+instead of JSON when calling external search tools — confirmed bug on Groq's side.
+Calculator tool works correctly. Web search fails consistently due to provider bug.
+
+**Lesson:** For reliable tool calling in production, prefer OpenAI or Anthropic API,
+or implement provider fallback logic.
+
+
 ---
 
 ## 🛠 Tech Stack
