@@ -8,6 +8,9 @@ I build end-to-end workflow automations that connect APIs, process data with LLM
 
 ## 📂 Projects
 
+### 🔗 [Make Financial Monitor](https://github.com/RodrigoMirandaHub/Make-Financial-Monitor)
+An automation built in Make (formerly Integromat) that monitors the USD/BRL exchange rate on a schedule, branches on real business logic, and takes different actions depending on the result including generating an AI-written recommendation with an LLM.
+
 ### 🔗 [LangChain Studies](https://github.com/RodrigoMirandaHub/langchain-studies)
 Building hands-on projects with LangChain, LCEL, and Groq.
 Covers chains, prompt templates, memory, RAG, and agents.
