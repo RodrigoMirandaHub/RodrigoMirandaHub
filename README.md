@@ -22,7 +22,7 @@ Covers chains, prompt templates, memory, RAG, and agents.
 → [langchain-studies](https://github.com/RodrigoMirandaHub/langchain-studies)
 
 
-### 🔥 [Lead Enrichment Pipeline — N8N + Groq + Supabase + HubSpot]([https://github.com/RodrigoMirandaHub/lead-enrichment-pipeline-n8n])
+### 🔥 [Lead Enrichment Pipeline — N8N + Groq + Supabase + HubSpot](https://github.com/RodrigoMirandaHub/Lead-Enrichment-Pipeline)
 AI pipeline that receives leads via webhook, scores them with LLaMA 3.3-70b, stores results in Supabase (PostgreSQL) with duplicate protection, creates contacts in HubSpot CRM, and fires Gmail alerts for hot leads (score ≥ 7).  
 `n8n` `Groq API` `LLaMA 3.3` `Supabase` `HubSpot` `PostgreSQL` `Gmail`
 
