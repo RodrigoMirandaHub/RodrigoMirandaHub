@@ -8,6 +8,12 @@ I build end-to-end workflow automations that connect APIs, process data with LLM
 
 ## 📂 Projects
 
+### 🔗 [Enterprise AI Knowledge Hub](https://github.com/RodrigoMirandaHub/enterprise-ai-knowledge-hub)
+A RAG-based internal assistant that answers questions strictly from uploaded company documentation, cites its sources, and can trigger real actions (via an n8n-orchestrated agent) when a request requires follow-up — e.g. creating an IT ticket.
+
+Built as a portfolio project demonstrating retrieval-augmented generation, agentic decision-making with LangGraph, and workflow automation — not just a chatbot wrapper around an LLM.
+
+
 ### 🔗 [Make Financial Monitor](https://github.com/RodrigoMirandaHub/Make-Financial-Monitor)
 An automation built in Make (formerly Integromat) that monitors the USD/BRL exchange rate on a schedule, branches on real business logic, and takes different actions depending on the result including generating an AI-written recommendation with an LLM.
 
