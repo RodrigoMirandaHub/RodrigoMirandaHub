@@ -13,6 +13,8 @@ A RAG-based internal assistant that answers questions strictly from uploaded com
 
 Built as a portfolio project demonstrating retrieval-augmented generation, agentic decision-making with LangGraph, and workflow automation not just a chatbot wrapper around an LLM.
 
+### 🔗  [POWER BI Global revenue of different companies from 2021 to 2023](https://github.com/RodrigoMirandaHub/Faturamento-anual-de-empresas-global)
+Project with an interactive dashboard developed in Power BI with sales data from between 2021 and 2023. The data was imported via CSV files, going through a cleaning and unification process before the charts were created.
 
 ### 🔗 [Make Financial Monitor](https://github.com/RodrigoMirandaHub/Make-Financial-Monitor)
 An automation built in Make (formerly Integromat) that monitors the USD/BRL exchange rate on a schedule, branches on real business logic, and takes different actions depending on the result including generating an AI-written recommendation with an LLM.
