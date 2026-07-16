@@ -30,11 +30,11 @@ Covers chains, prompt templates, memory, RAG, and agents.
 → [langchain-studies](https://github.com/RodrigoMirandaHub/langchain-studies)
 
 
-### 🔥 [Lead Enrichment Pipeline — N8N + Groq + Supabase + HubSpot](https://github.com/RodrigoMirandaHub/Lead-Enrichment-Pipeline)
+### 🔥 [Lead Enrichment Pipeline N8N + Groq + Supabase + HubSpot](https://github.com/RodrigoMirandaHub/Lead-Enrichment-Pipeline)
 AI pipeline that receives leads via webhook, scores them with LLaMA 3.3-70b, stores results in Supabase (PostgreSQL) with duplicate protection, creates contacts in HubSpot CRM, and fires Gmail alerts for hot leads (score ≥ 7).  
 `n8n` `Groq API` `LLaMA 3.3` `Supabase` `HubSpot` `PostgreSQL` `Gmail`
 
-### 🎫 [Ticket Classification Pipeline — N8N + Groq + LLaMA](https://github.com/RodrigoMirandaHub/pipeline-classificador-tickets-n8n)
+### 🎫 [Ticket Classification Pipeline N8N + Groq + LLaMA](https://github.com/RodrigoMirandaHub/pipeline-classificador-tickets-n8n)
 AI pipeline for automatic fintech support ticket triage. Receives tickets via webhook, classifies them by category and severity using LLaMA 3.3-70b, fires critical alerts via Gmail, and logs all results to Google Sheets.  
 `n8n` `Groq API` `LLaMA 3.3` `Webhooks` `Google Sheets` `Gmail`
 
@@ -42,7 +42,7 @@ AI pipeline for automatic fintech support ticket triage. Receives tickets via we
 Fully functional Telegram chatbot powered by Groq (LLaMA 3.3), with persistent conversation history stored in Google Sheets. Deployed on Railway with zero cost infrastructure.  
 `n8n` `Groq API` `Telegram Bot API` `Google Sheets` `Railway`
 
-### 📊 [Lead Analysis Agent — N8N + AI](https://github.com/RodrigoMirandaHub/-Agente-de-An-lise-de-Leads-com-IA-N8N)
+### 📊 [Lead Analysis Agent N8N + AI](https://github.com/RodrigoMirandaHub/-Agente-de-An-lise-de-Leads-com-IA-N8N)
 Webhook-triggered workflow that receives lead data, processes it through an LLM for qualification and classification, and saves structured results to Google Sheets.  
 `n8n` `Groq API` `Webhooks` `Google Sheets` `JSON parsing`
 
@@ -50,7 +50,7 @@ Webhook-triggered workflow that receives lead data, processes it through an LLM 
 Scheduled automation polling USD and BTC rates every 30 minutes via AwesomeAPI. Stores history in Google Sheets and sends conditional Gmail alerts when thresholds are crossed.  
 `n8n` `AwesomeAPI` `Google Sheets` `Gmail` `Schedule Trigger`
 
-### 🔌 [Claude MCP Projects — Filesystem, SQLite & Google Sheets](https://github.com/RodrigoMirandaHub/claude-mcp-projects)
+### 🔌 [Claude MCP Projects Filesystem, SQLite & Google Sheets](https://github.com/RodrigoMirandaHub/claude-mcp-projects)
 Documented setup and integration of Model Context Protocol (MCP) servers with Claude Desktop on Windows covering filesystem access, SQLite queries, and Google Sheets operations.  
 `MCP` `Claude Desktop` `SQLite` `Google Sheets` `Windows`
 
