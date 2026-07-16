@@ -54,7 +54,7 @@ Scheduled automation polling USD and BTC rates every 30 minutes via AwesomeAPI. 
 Documented setup and integration of Model Context Protocol (MCP) servers with Claude Desktop on Windows covering filesystem access, SQLite queries, and Google Sheets operations.  
 `MCP` `Claude Desktop` `SQLite` `Google Sheets` `Windows`
 
-### 05 — Agent with Tools
+### [05 Agent with Tools](https://github.com/RodrigoMirandaHub/-Agente-de-An-lise-de-Leads-com-IA-N8N)
 LangChain agent with two tools: a calculator and a web search tool.
 Uses `bind_tools` for manual tool call loop control instead of `create_agent`.
 
